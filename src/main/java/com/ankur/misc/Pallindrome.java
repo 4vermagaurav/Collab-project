@@ -3,6 +3,9 @@ package com.ankur.misc;
 import java.util.Arrays;
 
 public class Pallindrome {
+    public static boolean isPallindromeGrv(String input){
+        return true;
+    }
     public static void main(String[] args) {
         System.out.println("Gaurav");
         String str1 ="grv";
